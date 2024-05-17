@@ -1,4 +1,4 @@
 dependencies {
-    api("codechicken:forgemultipart-mc1.7.10:1.5.0-mega:dev")
-    api("mega:forgerelocation-mc1.7.10:0.1.2-mega:dev")
+    api("codechicken:forgemultipart-mc1.7.10:1.6.0-mega:dev")
+    api("mega:forgerelocation-mc1.7.10:0.2.0-mega:dev")
 }
